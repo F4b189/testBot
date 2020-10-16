@@ -18,6 +18,7 @@
             curl_setopt($CurlSession,CURLOPT_URL,$url);
             curl_exec($session);
             curl_close($session);
+            //Ciaoooooooasnknsaiocacnsckncksla
         }
     }
     else{
@@ -38,11 +39,14 @@
                 curl_close($session);
             break;
             case "secondo":
-                //
+                //sdasdasdasdsadaasd prova di PULLLL
+                //aa
             break;
             case "terzo":
-                //
+                //edfhewhfeiwuhfewùàòàùòùòà
             break;
+            //ciaooooo
+            //ciaoo
         }
     }
 ?>
